@@ -1,0 +1,26 @@
+{
+  "salary": 50000.0,
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2026-10-01",
+      "item": "starting",
+      "category": "Utilities",
+      "amount": 1000.0 
+    },
+    {
+      "id": 2,
+      "date": "2026-10-01",
+      "item": "ultra",
+      "category": "Housing",
+      "amount": 3800.0
+    },
+    {
+      "id": 3,
+      "date": "2026-10-01",
+      "item": "eating today at restaurent",
+      "category": "Food",
+      "amount": 500.0
+    }
+  ]
+}
